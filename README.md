@@ -107,19 +107,19 @@
 <br />
 <p align="center">
 	<img
-		src="https://github-readme-stats.vercel.app/api?username=oms12&show_icons=true&locale=en&theme=radical&count_private=true"
+		src="https://github-readme-stats.vercel.app/api?username=preetiSingh06&show_icons=true&locale=en&theme=radical&count_private=true"
 		alt="Preeti Singh"
 	/>
 </p>
 <p align="center">
 	<img
-		src="https://github-readme-streak-stats.herokuapp.com/?user=oms12&theme=tokyonight"
+		src="https://github-readme-streak-stats.herokuapp.com/?user=preetiSingh06&theme=tokyonight"
 		alt="Preeti Singh"
 	/>
 </p>
 <p align="center">
 	<img
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=oms12&show_icons=true&locale=en&layout=compact&theme=radical"
+		src="https://github-readme-stats.vercel.app/api/top-langs?username=preetiSingh06&show_icons=true&locale=en&layout=compact&theme=radical"
 		alt="Preeti Singh"
 	/>
 </p>
